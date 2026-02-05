@@ -1,4 +1,3 @@
-#### Shaunabh Bose
 ### Raspberry Pi Color Detection Project
 This project uses the Raspberry Pi and the Picamera2 module to detect colors in images captured by the camera.
 
